@@ -123,8 +123,8 @@ Hỗ trợ:
 ### 🔧 Yêu cầu hệ thống
 
 * Java Development Kit (JDK) 8 trở lên
-* Hệ điều hành: Windows, macOS hoặc Linux
-* IDE: IntelliJ IDEA, Eclipse, VS Code hoặc terminal/command prompt
+* Hệ điều hành: Windows
+* IDE: Eclipse
 * Bộ nhớ: tối thiểu 512MB RAM
 * Dung lượng: \~20MB cho mã nguồn và file thực thi
 
@@ -196,9 +196,3 @@ Mở terminal/IDE mới cho mỗi client. Client sẽ kết nối tới server v
 * Email: [anhvuduc9204@gmail.com](mailto:anhvuduc9204@gmail.com)
 
 © 2025 AIoTLab – Faculty of Information Technology, DaiNam University. All rights reserved.
-
----
-
-Nếu bạn muốn, mình có thể **vẽ thêm sơ đồ luồng dữ liệu server ↔ client ↔ DAO ↔ DB** giống như bản trước, để README trực quan hơn, có thể đưa vào làm tài liệu thuyết trình.
-
-Bạn có muốn mình vẽ không?
