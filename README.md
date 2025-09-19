@@ -104,6 +104,20 @@ Hỗ trợ:
   <b>Hình 4b: Thông báo lỗi khi mượn/trả sách không thành công</b>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1864ee01-ae83-4804-baf0-82dd82a8d54e" width="700"/>
+/>
+  <br>
+  <b>Hình 5a: Giao diện màn hình thêm sách</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88c44590-7c1f-4057-b924-4e7f05625692" width="700"/>
+/>
+  <br>
+  <b>Hình 5b: Giao diện màn hình sửa sách</b>
+</p>
+
 ---
 
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
