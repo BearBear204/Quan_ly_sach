@@ -179,9 +179,9 @@ Mở terminal/IDE mới cho mỗi client. Client sẽ kết nối tới server v
 
 ## 📚 5. Thông tin liên hệ
 
-* Họ tên: Lê Đức Khánh Long
-* Lớp: CNTT 16-03
-* Email: [khanhlong12c@gmail.com](mailto:khanhlong12c@gmail.com)
+* Họ tên: Vũ Đức Anh
+* Lớp: CNTT 16-01
+* Email: [anhvuduc9204@gmail.com](mailto:anhvuduc9204@gmail.com)
 
 © 2025 AIoTLab – Faculty of Information Technology, DaiNam University. All rights reserved.
 
