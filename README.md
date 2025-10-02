@@ -75,33 +75,27 @@ Hỗ trợ:
 ## 🚀 3. Hình ảnh các chức năng
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18a54ea4-9c5d-4728-b93f-94cd8189f7e6" width="700"/>
+  <img src=<img width="529" height="336" alt="image" src="https://github.com/user-attachments/assets/5ac7f3be-6cbd-4a2a-a680-ddd3fafbde0c"  width="700" />
   <br>
   <b>Hình 1: Giao diện Đăng nhập / Đăng ký</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d03cd23-1c5d-4f0b-af9d-5ae225154168" width="700"/>
+  <img width="1212" height="796" alt="image" src="https://github.com/user-attachments/assets/1cf9ac03-8069-4828-83ad-8c756232ff52"  width="700" />
   <br>
   <b>Hình 2: Giao diện Client admin hiển thị danh sách sách và lịch sử mượn/trả</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc495584-8982-4afe-b3e3-7e7b227e5434" width="700"/>
+  <img width="1216" height="766" alt="image" src="https://github.com/user-attachments/assets/f1f65142-14df-49d7-9f35-7e6e6e5eceb4"  width="700" />
   <br>
   <b>Hình 3: Giao diện Client user hiển thị danh sách sách và lịch sử mượn/trả cá nhân</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd649e42-8c22-44a6-a2d1-d3ff2dce342b" width="700"/>
+  <img width="538" height="341" alt="image" src="https://github.com/user-attachments/assets/5c0cab9c-7009-4f9c-93c6-8f86337e01d1" width="700" />
   <br>
-  <b>Hình 4a: Thông báo lỗi khi đăng nhập/đăng ký thất bại</b>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7dbecb58-9ab1-49e3-8cf7-9d206be3a818" width="700"/>
-  <br>
-  <b>Hình 4b: Thông báo lỗi khi mượn/trả sách không thành công</b>
+  <b>Hình 4: Thông báo lỗi khi đăng nhập/đăng ký thất bại</b>
 </p>
 
 <p align="center">
